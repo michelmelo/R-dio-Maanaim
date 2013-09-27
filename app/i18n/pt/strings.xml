@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="indique">Indique</string>
+    <string name="contacto">Contato</string>
+    <string name="mais">Mais</string>
+    <string name="info">Sobre</string>
+    <string name="attenzione">Rádio Maanaim</string>
+    <string name="chiudereapp">Gostaria mesmo de sair??</string>
+    <string name="si">Sim</string>
+    <string name="no">Não</string>
+    <string name="rating_title">Feedback</string>
+    <string name="rating_message">Se gostou, deixe sua opinião na App Store para que possamos continuar mandando atualizações é grátis.</string>
+    <string name="rating_option_1">Escrever opinião</string>
+    <string name="rating_option_2">Lembre-me depois</string>
+    <string name="rating_option_3">Agora Não!</string>
+</resources>

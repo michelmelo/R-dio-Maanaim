@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="home">Home</string>	
+	<string name="indique">Indique</string>
+	<string name="contacto">Contat</string>
+	<string name="mais">More</string>
+	<string name="info">Info</string>
+	<string name="attenzione">Rádio Maanaim</string>
+	<string name="chiudereapp">Gostaria mesmo de sair??</string>
+	<string name="si">Sim</string>
+	<string name="no">Não</string>
+	
+	<string name="rating_title">Feedback</string>
+    <string name="rating_message">Thank you for using %s, it would mean a lot to us if you took a minute to rate us at the App Store!.</string>
+    <string name="rating_option_1">Rate now</string>
+    <string name="rating_option_2">Don't remind me again</string>
+    <string name="rating_option_3">Not now</string>
+</resources>
